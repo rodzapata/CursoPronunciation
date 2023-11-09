@@ -1,0 +1,24 @@
+enables 
+enables storing a collection of multiple items under a single variable name
+permite almacenar una coleccion de multiple elementos bajo un único nombre de variable.
+
+
+performing 
+for performing common array operations
+pera realizar operaciones de matriz comunes.
+
+instead :  en vez de , en cambio, en su lugar
+but are instead Array objects with the following core characteristics:
+pero en cambios los objetos Array tienen las siguines carractetiscas principales:
+
+
+When those characteristics are undesirable, use typed arrays instead.
+cuando estas caractetisticas no sean deseadas, use matrices escritas en su lugar.
+
+built-in = incorporado, intrínseco
+Several of the built-in array methods 
+varios de los metodos inporporado de la matrices
+
+
+
+
