@@ -1,0 +1,3 @@
+Manual Coding (1940s-1950s):
+Early computers required programmers to manually input machine code instructions using punch cards or other primitive methods.
+Assembly languages were developed to make programming somewhat more human-readable.

@@ -1,0 +1,3 @@
+Mobile Development (2000s-Present):
+The proliferation of smartphones led to a surge in mobile app development.
+iOS and Android platforms became dominant, and languages like Swift, Kotlin, and frameworks like React Native and Flutter emerged for cross-platform development.

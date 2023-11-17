@@ -1,0 +1,4 @@
+Object-Oriented Programming (OOP) (1980s-1990s):
+
+Languages like C++ and later Java popularized object-oriented programming, emphasizing code reuse, encapsulation, and modularity.
+OOP changed the way developers approached software design and development.

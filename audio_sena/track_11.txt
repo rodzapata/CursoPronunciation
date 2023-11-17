@@ -1,0 +1,3 @@
+Microservices and Containers (2010s-Present):
+Microservices architecture gained popularity, breaking down monolithic applications into smaller, independent services.
+Containerization with tools like Docker and orchestration with Kubernetes became integral for deployment and scaling.

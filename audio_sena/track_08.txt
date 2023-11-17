@@ -1,0 +1,3 @@
+Web Development (1990s-Present):
+The World Wide Web brought a new era of distributed computing and ushered in languages like HTML, CSS, and JavaScript for web development.
+The rise of dynamic web applications and server-side scripting languages (e.g., PHP, ASP, and later Node.js) changed how applications were built and deployed.

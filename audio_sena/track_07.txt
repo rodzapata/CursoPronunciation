@@ -1,0 +1,4 @@
+Client-Server Architecture (1980s-1990s):
+
+Networking technologies improved, leading to the development of client-server architectures.
+This model distributed processing tasks between client and server, enabling more scalable and efficient applications.

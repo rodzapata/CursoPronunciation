@@ -1,0 +1,3 @@
+High-Level Programming Languages (1950s-1960s):
+Fortran, one of the earliest high-level programming languages, was developed, allowing programmers to write code more abstractly.
+COBOL and Lisp followed, expanding the range of applications that could be developed.

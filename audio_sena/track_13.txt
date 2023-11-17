@@ -1,0 +1,3 @@
+Low-Code/No-Code Development (2010s-Present):
+Platforms emerged that allowed users to create applications with minimal hand-coding, democratizing software development.
+Low-code/no-code tools aimed to accelerate the development process and involve a broader audience.

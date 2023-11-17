@@ -1,0 +1,3 @@
+Artificial Intelligence and Machine Learning (2010s-Present):
+AI and machine learning technologies became more accessible to developers, enabling the integration of smart features into applications.
+Natural Language Processing (NLP), computer vision, and other AI techniques found applications in diverse domains.

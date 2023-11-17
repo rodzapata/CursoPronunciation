@@ -1,0 +1,3 @@
+Graphical User Interfaces (GUIs) (1980s-1990s):
+The advent of graphical interfaces, driven by the development of desktop operating systems like Windows and MacOS, influenced software design and user experience.
+GUIs made software more accessible to non-technical users.

@@ -1,0 +1,5 @@
+Blockchain and Decentralized Applications (2010s-Present):
+Blockchain technology and smart contracts introduced new possibilities for decentralized and secure applications.
+Decentralized finance (DeFi) and other blockchain-based applications gained attention.
+The evolution of technology in software development is ongoing, with trends such as quantum computing, edge computing, and continued advancements in AI shaping the future landscape. 
+Developers are continually adapting to new tools and methodologies to meet the evolving demands of the industry.

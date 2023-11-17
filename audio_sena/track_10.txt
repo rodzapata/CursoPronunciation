@@ -1,0 +1,3 @@
+Cloud Computing (2000s-Present):
+Cloud platforms such as AWS, Azure, and Google Cloud revolutionized software development by providing scalable and cost-effective infrastructure.
+DevOps practices evolved to streamline development and operations in a cloud-centric environment.
